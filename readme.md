@@ -109,6 +109,11 @@ Gulp只有四个API：task/watch/src/dest
 
 #####三、参考文档
 
--  [前端构建工具gulp入门教程](http://blog.wangdaodao.com/2015-04-21/hello-gulp.html)
+- [前端构建工具gulp入门教程](http://blog.wangdaodao.com/2015-04-21/hello-gulp.html)
 - [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp/)
 - [Gulp范儿-Gulp高级技巧](http://csspod.com/advanced-tips-for-using-gulp-js/)
+ 
+
+#####四、我的gulpfile.js配置文件
+[gulpfile.js](gulpfile.js)
+
